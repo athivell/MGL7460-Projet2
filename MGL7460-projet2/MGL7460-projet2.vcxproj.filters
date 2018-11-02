@@ -27,4 +27,7 @@
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Dictionnaire.txt" />
+  </ItemGroup>
 </Project>
