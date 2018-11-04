@@ -29,5 +29,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Dictionnaire.txt" />
+    <Text Include="sauvegarde.txt" />
   </ItemGroup>
 </Project>
